@@ -1,4 +1,4 @@
-package softblue;
+package fatorialPackage;
 
 public class FatorialERecussividade {
 	private static final int TIME = 1000;
