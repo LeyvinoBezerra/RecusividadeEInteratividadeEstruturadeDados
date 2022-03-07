@@ -1,2 +1,2 @@
-# RecusividadeEstruturadeDados
- Fatorial REcussividade
+# RecusividadeEInteratividadeEstruturadeDados
+ Fatorial Rcussivo
